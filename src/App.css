@@ -1,0 +1,6 @@
+.collapsible-header.active {
+    background-color: #eee;
+}
+.collapsible-header {
+    font-weight: 500;
+}
